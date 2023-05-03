@@ -43,4 +43,6 @@ pre{
     pre{max-width: 100%;overflow-x: auto;}
 }
 
-
+div.button{
+    right: 10px;
+}
